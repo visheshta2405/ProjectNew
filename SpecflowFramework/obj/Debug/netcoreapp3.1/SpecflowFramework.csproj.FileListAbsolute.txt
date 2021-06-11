@@ -1,0 +1,10 @@
+D:\TrakitSelfPractice\SpecflowFramework\obj\Debug\netcoreapp3.1\SpecflowFramework.AssemblyInfoInputs.cache
+D:\TrakitSelfPractice\SpecflowFramework\obj\Debug\netcoreapp3.1\SpecflowFramework.AssemblyInfo.cs
+D:\TrakitSelfPractice\SpecflowFramework\obj\Debug\netcoreapp3.1\SpecflowFramework.csproj.CoreCompileInputs.cache
+D:\TrakitSelfPractice\SpecflowFramework\bin\Debug\netcoreapp3.1\log4net.config
+D:\TrakitSelfPractice\SpecflowFramework\bin\Debug\netcoreapp3.1\SpecflowFramework.deps.json
+D:\TrakitSelfPractice\SpecflowFramework\bin\Debug\netcoreapp3.1\SpecflowFramework.dll
+D:\TrakitSelfPractice\SpecflowFramework\bin\Debug\netcoreapp3.1\SpecflowFramework.pdb
+D:\TrakitSelfPractice\SpecflowFramework\obj\Debug\netcoreapp3.1\SpecflowFramework.dll
+D:\TrakitSelfPractice\SpecflowFramework\obj\Debug\netcoreapp3.1\SpecflowFramework.pdb
+D:\TrakitSelfPractice\SpecflowFramework\obj\Debug\netcoreapp3.1\SpecflowFramework.csproj.AssemblyReference.cache
